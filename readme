@@ -1,0 +1,7 @@
+1. npx create-react-app ecom
+2. SPA = SIngle Page Application
+3. Can create a new component and render it in App.js
+4. install react-router-dom
+5. update our routes
+    a. check your index.js
+    b. provide correct navigation path and corresponding component
